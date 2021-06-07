@@ -1,0 +1,2 @@
+# ShynyClicker
+A ez autoclicker!
