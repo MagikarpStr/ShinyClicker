@@ -12,4 +12,4 @@ the Pyautogui and appJar library was used for the GUI.
 
 ## License 
 
-[Unlicense](https://unlicense.org) license was used for the repository.
+[Unlicense](https://unlicense.org) was used for the repository.
