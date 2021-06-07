@@ -1,4 +1,4 @@
-# ShynyClicker
+# ShinyClicker
 
 Shiny Clicker is a simple settable autoclicker programmed in python
 
